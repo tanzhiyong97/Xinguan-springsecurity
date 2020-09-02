@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d75a1b-4f3c-427b-8aba-91fa68392635" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Java\maven\apache-maven-3.6.3-bin\Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../java/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Java\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gmCQfgV9QhaPWwmDrCjRApnuD7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ IDEA工作空间（项目)\springboot2.x+vue+elementui+springsecurity+jwt+swagger2打造纯前后端分离权限管理系统\xinguan-springboot\xinguan-base-web\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XinGuanApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tan.generator.CodeGenerator" />
+      <module name="xinguan-base-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tan.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XinGuanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xinguan-base-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tan.XinGuanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XinguanParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xinguan-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tan.XinguanParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XinGuanApplication" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d75a1b-4f3c-427b-8aba-91fa68392635" name="Default Changelist" comment="" />
+      <created>1598710366068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598710366068</updated>
+      <workItem from="1598710375404" duration="6828000" />
+      <workItem from="1598967727558" duration="394000" />
+      <workItem from="1598968199200" duration="407000" />
+      <workItem from="1598968619770" duration="6790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599033860408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599033860408" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1599034627555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627555" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1599034627555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627555" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1599034627555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627555" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1599034627557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627557" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1599034627557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627557" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1599034627556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627556" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1599034627557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599034627557" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598968759296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1598968759296" />
+    <state x="57" y="24" key="new project wizard" timestamp="1598968309930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1598968309930" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598711087631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1598711087631" />
+  </component>
+</project>
