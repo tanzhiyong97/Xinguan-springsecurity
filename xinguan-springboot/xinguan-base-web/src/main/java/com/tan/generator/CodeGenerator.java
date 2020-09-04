@@ -53,7 +53,7 @@ public class CodeGenerator {
         // 全局配置
         GlobalConfig gc = new GlobalConfig();
         //因为我们这里是子模块，所以需要设置一下绝对路径。
-        gc.setOutputDir("F:\\IntelliJ IDEA工作空间（项目)\\springboot2.x+vue+elementui+springsecurity+jwt+swagger2打造纯前后端分离权限管理系统\\xinguan-springboot\\xinguan-base-web" + "/src/main/java");
+        gc.setOutputDir("F:\\IntelliJ IDEA工作空间（项目)\\springboot2.x+vue+elementui+springsecurity+jwt+swagger2打造纯前后端分离权限管理系统\\Xinguan-springsecurity\\xinguan-springboot\\xinguan-base-web" + "/src/main/java");
         gc.setAuthor("tan");
         //生成之后是否打开资源管理器
         gc.setOpen(false);

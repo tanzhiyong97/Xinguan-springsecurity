@@ -6,14 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xinguan-base-common" />
         <module name="xinguan-base-web" />
+        <module name="xinguan-base-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="test" target="1.8" />
       <module name="xinguan-base-common" target="1.8" />
       <module name="xinguan-base-web" target="1.8" />
+      <module name="xinguan-parent" target="1.8" />
       <module name="xinguan-springboot" target="1.8" />
     </bytecodeTargetLevel>
   </component>

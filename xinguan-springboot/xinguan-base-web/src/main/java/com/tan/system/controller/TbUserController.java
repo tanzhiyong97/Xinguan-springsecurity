@@ -1,18 +1,20 @@
 package com.tan.system.controller;
 
 
+import com.tan.handler.BusinessException;
+import com.tan.response.Result;
+import com.tan.response.ResultCode;
 import com.tan.system.entity.TbUser;
 import com.tan.system.service.TbUserService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * <p>
@@ -22,20 +24,33 @@ import java.util.List;
  * @author tan
  * @since 2020-09-01
  */
-@Controller
+@RestController
 @RequestMapping("/system/tb-user")
-@Api(value = "用户管理")
+@Api(value = "系统用户模块", tags = "系统用户接口")
 public class TbUserController {
 
     @Autowired
     TbUserService tbUserService;
 
-    @GetMapping("/findUsers")
-    @ResponseBody
-    @ApiOperation(value = "查询所有的用户信息", notes = "")
-    public List<TbUser> findUsers(){
+    @GetMapping("/" +
+            "" +
+            "")
+    @ApiOperation(value = "用户列表", notes = "查询所有的用户信息")
+    public Result findUsers(){
         List<TbUser> list = tbUserService.list();
-        return list;
+        return Result.ok().data("users", list);
+    }
+
+
+    @GetMapping("/{name}")
+    @ApiOperation(value = "查询单个用户", notes = "通过ID查询单个用户信息")
+    public Result getUserById(@PathVariable("name") String name) {
+        TbUser user = tbUserService.getByName(name);
+        if(user!=null){
+            return Result.ok().data("user", user);
+        }else{
+            throw new BusinessException(ResultCode.USER_NOT_FONUD.getCode(), ResultCode.USER_NOT_FONUD.getMessage());
+        }
     }
 }
 

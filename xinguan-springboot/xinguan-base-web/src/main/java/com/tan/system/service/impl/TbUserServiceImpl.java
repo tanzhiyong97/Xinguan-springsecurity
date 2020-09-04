@@ -4,6 +4,7 @@ import com.tan.system.entity.TbUser;
 import com.tan.system.mapper.TbUserMapper;
 import com.tan.system.service.TbUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
@@ -17,4 +18,10 @@ import org.springframework.stereotype.Service;
 @Service
 public class TbUserServiceImpl extends ServiceImpl<TbUserMapper, TbUser> implements TbUserService {
 
+    @Autowired
+    TbUserMapper tbUserMapper;
+    @Override
+    public TbUser getByName(String name) {
+        return tbUserMapper.getByName(name);
+    }
 }
