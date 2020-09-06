@@ -1,0 +1,30 @@
+2020-09-06 10:00:18.707 DEBUG [http-nio-8082-exec-9] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:18.764 DEBUG [http-nio-8082-exec-9] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:18.976 DEBUG [http-nio-8082-exec-9] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:18.976 DEBUG [http-nio-8082-exec-9] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 10(Long), 10(Long)
+2020-09-06 10:00:18.978 DEBUG [http-nio-8082-exec-9] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 10
+2020-09-06 10:00:20.110 DEBUG [http-nio-8082-exec-10] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:20.112 DEBUG [http-nio-8082-exec-10] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:20.114 DEBUG [http-nio-8082-exec-10] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:20.114 DEBUG [http-nio-8082-exec-10] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 20(Long), 10(Long)
+2020-09-06 10:00:20.116 DEBUG [http-nio-8082-exec-10] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 10
+2020-09-06 10:00:20.888 DEBUG [http-nio-8082-exec-1] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:20.888 DEBUG [http-nio-8082-exec-1] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:20.891 DEBUG [http-nio-8082-exec-1] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:20.892 DEBUG [http-nio-8082-exec-1] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 30(Long), 10(Long)
+2020-09-06 10:00:20.894 DEBUG [http-nio-8082-exec-1] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 10
+2020-09-06 10:00:21.958 DEBUG [http-nio-8082-exec-2] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:21.958 DEBUG [http-nio-8082-exec-2] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:21.963 DEBUG [http-nio-8082-exec-2] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:21.963 DEBUG [http-nio-8082-exec-2] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 50(Long), 10(Long)
+2020-09-06 10:00:21.965 DEBUG [http-nio-8082-exec-2] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 10
+2020-09-06 10:00:23.558 DEBUG [http-nio-8082-exec-4] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:23.559 DEBUG [http-nio-8082-exec-4] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:23.561 DEBUG [http-nio-8082-exec-4] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:23.561 DEBUG [http-nio-8082-exec-4] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 60(Long), 10(Long)
+2020-09-06 10:00:23.563 DEBUG [http-nio-8082-exec-4] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 10
+2020-09-06 10:00:24.300 DEBUG [http-nio-8082-exec-3] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT COUNT(1) FROM tb_user
+2020-09-06 10:00:24.307 DEBUG [http-nio-8082-exec-3] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 
+2020-09-06 10:00:24.310 DEBUG [http-nio-8082-exec-3] [com.tan.system.mapper.UserMapper.selectPage] - ==>  Preparing: SELECT username,nickname,email,avatar,phone_number,status,create_time,modified_time,sex,salt,type,password,birth,department_id FROM tb_user LIMIT ?,?
+2020-09-06 10:00:24.310 DEBUG [http-nio-8082-exec-3] [com.tan.system.mapper.UserMapper.selectPage] - ==> Parameters: 70(Long), 10(Long)
+2020-09-06 10:00:24.312 DEBUG [http-nio-8082-exec-3] [com.tan.system.mapper.UserMapper.selectPage] - <==      Total: 1

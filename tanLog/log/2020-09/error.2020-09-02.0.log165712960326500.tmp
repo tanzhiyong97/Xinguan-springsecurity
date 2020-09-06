@@ -1,0 +1,2 @@
+2020-09-02 21:38:40.342 ERROR [http-nio-8082-exec-3] [com.tan.handler.GlobalExceptionHandler] - 用户不存在
+2020-09-02 21:42:35.272 ERROR [http-nio-8082-exec-1] [com.tan.handler.GlobalExceptionHandler] - 用户不存在

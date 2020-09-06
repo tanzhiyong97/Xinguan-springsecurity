@@ -19,118 +19,64 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d75a1b-4f3c-427b-8aba-91fa68392635" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_annotations_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_core_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_boot_autoconfigure_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_boot_starter_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_ui_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-common/src/main/java/com/tan/response/CustomizeResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-common/src/main/java/com/tan/response/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-common/src/main/java/com/tan/response/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/config/SwaggerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/handler/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/handler/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xinguan-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="51d75a1b-4f3c-427b-8aba-91fa68392635" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/2020-09/debug.2020-09-02.0.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/2020-09/total.2020-09-02.0.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/2020-09/total.2020-09-03.0.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tanLog/log/total.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-common/target/classes/com/tan/response/CustomizeResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-common/target/classes/com/tan/response/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-common/target/classes/com/tan/response/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/config/AccessControlAllowOriginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/META-INF/xinguan-base-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/config/SwaggerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/handler/BusinessException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/logback-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-common/xinguan-base-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-common/xinguan-base-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/config/SwaggerConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/generator/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/generator/CodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/TbUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/TbUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/TbUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/TbUserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/TbUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/TbUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/TbUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/TbUserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application-dev.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application-prod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application-prod.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/TbUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/TbUserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/application-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/application-dev.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/application-prod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/application-prod.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/TbMenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/TbRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/controller/TbUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/entity/TbMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/entity/TbRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/entity/TbUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/TbMenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/TbRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/TbUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/TbMenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/TbRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/TbUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/TbMenuServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/TbRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/service/impl/TbUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/TbMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/java/com/tan/system/mapper/xml/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/TbRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/src/main/resources/mapper/TbUserMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/generator/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/generator/CodeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/controller/TbUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/controller/TbUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/mapper/TbUserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/mapper/TbUserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/TbUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/TbUserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/impl/TbUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/impl/TbUserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/mapper/TbUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/target/classes/mapper/TbUserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinguan-base-web/xinguan-base-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xinguan-base-web/xinguan-base-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/controller/TbMenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/controller/TbRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/controller/TbUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/entity/TbMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/entity/TbRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/entity/TbUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/mapper/TbMenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/mapper/TbRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/mapper/TbUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/TbMenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/TbRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/TbUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/impl/TbMenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/impl/TbRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/com/tan/system/service/impl/TbUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/mapper/TbMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/mapper/TbRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinguan-base-web/target/classes/mapper/TbUserMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../xinguan-vue" beforeDir="false" afterPath="$PROJECT_DIR$/../xinguan-vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,6 +118,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -181,7 +128,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xinguan-vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -189,6 +136,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ IDEA工作空间（项目)\springboot2.x+vue+elementui+springsecurity+jwt+swagger2打造纯前后端分离权限管理系统\Xinguan-springsecurity\xinguan-springboot\xinguan-base-web\src\main\resources\mapper" />
       <recent name="F:\IntelliJ IDEA工作空间（项目)\springboot2.x+vue+elementui+springsecurity+jwt+swagger2打造纯前后端分离权限管理系统\xinguan-springboot\xinguan-base-web\src\main\resources\mapper" />
     </key>
   </component>
@@ -249,8 +197,17 @@
       <workItem from="1598968619770" duration="6790000" />
       <workItem from="1599035009180" duration="6934000" />
       <workItem from="1599045290847" duration="7590000" />
-      <workItem from="1599055127934" duration="9167000" />
+      <workItem from="1599055127934" duration="14987000" />
+      <workItem from="1599288841735" duration="5288000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1599218880928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599218880929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +225,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1599056112486">
       <screen x="0" y="0" width="1366" height="728" />
@@ -281,38 +243,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599138985411" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1599191315507">
+    <state width="1306" height="218" key="GridCell.Tab.0.bottom" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315507" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1599191315506">
+    <state width="1306" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390290" />
+    <state width="1306" height="218" key="GridCell.Tab.0.center" timestamp="1599367565399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315506" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1599191315506">
+    <state width="1306" height="218" key="GridCell.Tab.0.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565399" />
+    <state width="1306" height="218" key="GridCell.Tab.0.center/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390290" />
+    <state width="1306" height="218" key="GridCell.Tab.0.left" timestamp="1599367565399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315506" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1599191315506">
+    <state width="1306" height="218" key="GridCell.Tab.0.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565399" />
+    <state width="1306" height="218" key="GridCell.Tab.0.left/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390290" />
+    <state width="1306" height="218" key="GridCell.Tab.0.right" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315506" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1599191315509">
+    <state width="1306" height="218" key="GridCell.Tab.0.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.0.right/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390290" />
+    <state width="1306" height="218" key="GridCell.Tab.1.bottom" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315509" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1599191315508">
+    <state width="1306" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390291" />
+    <state width="1306" height="218" key="GridCell.Tab.1.center" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315508" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1599191315508">
+    <state width="1306" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390291" />
+    <state width="1306" height="218" key="GridCell.Tab.1.left" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315508" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1599191315508">
+    <state width="1306" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390291" />
+    <state width="1306" height="218" key="GridCell.Tab.1.right" timestamp="1599367565400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599191315508" />
+    <state width="1306" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367565400" />
+    <state width="1306" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.-315.1858.1080@1366.-315.1858.1080" timestamp="1599312390291" />
     <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1599050992301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -333,10 +303,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599045153812" />
-    <state x="57" y="24" key="new project wizard" timestamp="1598968309930">
+    <state x="165" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599218901046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="57" y="24" key="new project wizard/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1598968309930" />
+    <state x="165" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599218901046" />
+    <state x="57" y="24" key="new project wizard" timestamp="1599367560426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728/1366.-315.1858.1080@0.0.1366.728" timestamp="1599367560426" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599037243741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

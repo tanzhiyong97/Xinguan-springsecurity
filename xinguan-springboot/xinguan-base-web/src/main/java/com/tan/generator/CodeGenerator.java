@@ -102,10 +102,12 @@ public class CodeGenerator {
         //使用简化getter、setter
         strategy.setEntityLombokModel(true);
         //设置controller的api风格 使用RestController
+        strategy.setRestControllerStyle(true);
         strategy.setSuperEntityColumns("id");
         strategy.setInclude(scanner("表名，多个英文逗号分割").split(","));
+        //驼峰转连字符
         strategy.setControllerMappingHyphenStyle(true);
-        strategy.setTablePrefix(pc.getModuleName() + "_");
+        strategy.setTablePrefix("tb_");
         mpg.setStrategy(strategy);
         mpg.execute();
     }
